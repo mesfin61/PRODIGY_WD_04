@@ -44,12 +44,14 @@
 .logo-name {
   font-size: 1.5rem;
   line-height: 1.2;
+  color: var(--primary-color);
 }
 
 .logo-title {
   font-size: 0.9rem;
   font-weight: 400;
   opacity: 0.8;
+  color: var(--text-color);
 }
 
 .nav-list {
